@@ -1,6 +1,4 @@
-function Warning() {
-    
-}
+function Warning() 
 
 let speed = 90;
 if (speed > 80) {
